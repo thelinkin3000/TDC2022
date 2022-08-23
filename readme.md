@@ -9,7 +9,7 @@ Este es el repositorio de código y referencias de TDC 2022
 3. Proveeduría Electrónica - Uruguay 1073 Corrientes
 4. Electrónica Delta - Salta 842 Corrientes
 
-De todas maneras, la recomendación es que traten de comparar siempre contra MercadoLibre porque suelen tener mejor precio y más calidad.
+De todas maneras, la recomendación es que traten de comparar siempre contra MercadoLibre porque suelen tener mejor precio y más variedad.
 
 ## Links de referencia
 
